@@ -77,37 +77,62 @@ tracking-system/
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/tuusuario/tracking-system.git
+```
 Acceder al proyecto:
+```
 cd tracking-system
-Configurar servidor web (Apache o Nginx)
-Configurar base de datos (si aplica)
-Editar config.php con credenciales
-▶️ Ejecución
-Iniciar servidor local
-Acceder desde el navegador:
+```
+
+- Configurar servidor web (Apache o Nginx)
+- Configurar base de datos (si aplica)
+- Editar config.php con credenciales
+
+---
+
+## ▶️ Ejecución
+
+- Iniciar servidor local
+- Acceder desde el navegador:
+```
 http://localhost/tracking-system
-💡 Funcionamiento
+```
+
+---
+
+## 💡 Funcionamiento
 
 El sistema opera de la siguiente manera:
 
-📡 Se reciben datos de ubicación (GPS o navegador)
-💾 Se almacenan en el servidor (opcional)
-⚡ Se procesan mediante PHP
-🗺️ Se visualizan en la interfaz web con JavaScript
-🎨 Interfaz
-Panel de control intuitivo
-Visualización clara de ubicaciones
-Compatible con dispositivos móviles
-📈 Mejoras futuras
-📱 Aplicación móvil
-🔔 Notificaciones en tiempo real
-📊 Dashboard avanzado
-☁️ Integración con la nube
-🤖 Predicción de rutas
-⚠️ Nota
+- 📡 Se reciben datos de ubicación (GPS o navegador)
+- 💾 Se almacenan en el servidor (opcional)
+- ⚡ Se procesan mediante PHP
+- 🗺️ Se visualizan en la interfaz web con JavaScript
+
+---
+
+## 🎨 Interfaz
+
+- Panel de control intuitivo
+- Visualización clara de ubicaciones
+- Compatible con dispositivos móviles
+
+---
+## 📈 Mejoras futuras
+
+- 📱 Aplicación móvil
+- 🔔 Notificaciones en tiempo real
+- 📊 Dashboard avanzado
+- ☁️ Integración con la nube
+- 🤖 Predicción de rutas
+
+---
+
+## ⚠️ Nota
 
 Este sistema puede integrarse con dispositivos GPS reales o funcionar con datos simulados para pruebas.
 
-👨‍💻 Autor
+---
 
-Desarrollado por Isai Reyes Peña
+## 👨‍💻 Autor
+
+Desarrollado por **Isai Reyes Peña**
