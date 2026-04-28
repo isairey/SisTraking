@@ -42,7 +42,7 @@ El sistema está diseñado para ofrecer seguimiento en tiempo real, historial de
 
 ## 📂 Estructura del proyecto
 
-
+```
 tracking-system/
 │
 ├── 📁 backend/
@@ -59,7 +59,7 @@ tracking-system/
 │
 ├── 📁 views/
 └── README.md
-
+```
 
 ---
 
@@ -76,11 +76,11 @@ tracking-system/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/tracking-system.git
+git clone https://github.com/isairey/SisTraking.git
 ```
 Acceder al proyecto:
 ```
-cd tracking-system
+cd SisTraking
 ```
 
 - Configurar servidor web (Apache o Nginx)
