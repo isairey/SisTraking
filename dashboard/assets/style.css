@@ -1,0 +1,17 @@
+*{box-sizing:border-box}body{font-family:ui-sans-serif,system-ui,Segoe UI,Roboto,Arial;margin:0;background:#0b1220;color:#e5e7eb}
+a{color:#93c5fd}
+.header{display:flex;align-items:center;justify-content:space-between;padding:16px 24px;background:#0f172a;position:sticky;top:0;border-bottom:1px solid #1f2937}
+.header h1{font-size:18px;margin:0}
+.container{padding:24px;max-width:1200px;margin:0 auto}
+.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px}
+.card{background:#111827;border:1px solid #1f2937;border-radius:16px;padding:16px;box-shadow:0 10px 30px rgba(0,0,0,.25)}
+.kpi{font-size:28px;font-weight:700}
+.label{font-size:12px;color:#9ca3af;text-transform:uppercase;letter-spacing:.06em}
+.table{width:100%;border-collapse:collapse}
+.table th,.table td{padding:8px 10px;border-bottom:1px solid #1f2937;text-align:left;font-size:14px}
+.login{max-width:360px;margin:80px auto;background:#111827;padding:24px;border-radius:12px;border:1px solid #1f2937}
+input,button{width:100%;padding:10px 12px;border-radius:10px;border:1px solid #374151;background:#0b1220;color:#e5e7eb}
+button{cursor:pointer}
+.row{display:flex;gap:12px}
+canvas{width:100% !important;height:320px !important}
+.footer{color:#6b7280;font-size:12px;text-align:center;padding:16px}
